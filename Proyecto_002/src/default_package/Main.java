@@ -2,9 +2,18 @@ package default_package;
 
 import java.awt.Color;
 
+
 import javax.swing.JFrame;
 
 import container_package.GameEngine;
+
+
+/**
+ * 
+ * @author Perenguez Bastidas Luis Esteban
+ * Titulo: Proyecto_001
+ *
+ */
 
 public class Main {
 	public static void main(String[] args) {
