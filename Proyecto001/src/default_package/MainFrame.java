@@ -15,7 +15,7 @@ import java.awt.event.*;
 /**
  * 
  * @author Perenguez Bastidas Luis Esteban
- * Titulo: Proyecto_001
+ * Titulo: Proyecto001
  *
  */
 

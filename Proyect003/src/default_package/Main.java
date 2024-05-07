@@ -1,14 +1,14 @@
 package default_package;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
-
 import implementation_package.AlumnoDAOImpl;
-import model_package.Alumno;
 
+/**
+ * 
+ * @author Perenguez Bastidas Luis Esteban
+ * Titulo: Proyecto001
+ *
+ */
 
 public class Main {
 
